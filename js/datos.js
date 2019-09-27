@@ -160,7 +160,35 @@ El machitún126​ (machitun) se efectúa para sanar a alguien enfermo. Para ell
 We tripantu127​ (We Tripantu o Wiñoy Tripantu) es la celebración del año nuevo mapuche. Se realiza en el día de solsticio de invierno, entre el 21 y el 24 de junio. De esta manera, al amanecer del 24 de junio, se inicia otro ciclo de vida en el mundo mapuche y en la madre tierra. Por lo general es un día de reencuentro, de armonización y equilibrio de las relaciones humanas. Una tradición corriente de esta fiesta es bañarse en un río o lago al amanecer.
 
 `,img:""},
-{titulo:"Charruas",concepto:``,img:""},
+{titulo:"Charruas",concepto:`
+<p>Los charrúas fueron un pueblo amerindio que en el siglo XVI vivía en el sur de lo que hoy es Uruguay. En el siglo XVIII los charrúas ampliaron su territorio en su guerra contra españoles y guaraníes misioneros avanzando sobre el norte de Uruguay, el sur del actual estado brasileño de Río Grande del Sur y la provincia argentina de Entre Ríos, alcanzando ocasionalmente también a las de Corrientes y Santa Fe. A raíz de ese avance se fusionaron con otros pueblos que ocupaban esos territorios, tales como los chanás y minuanes y se fusionaron y/o exterminaron a pueblos presumiblemente cáingangs como los yaros y bohanes. El término charrúa pasó a ser el denominador común de ese conjunto de pueblos, por lo que hoy en conjunto se los denomina como complejo charrúa o nación charrúa.
+</p><h3>Características culturales</h3>
+<h4>Cultura</h4><p>
+Los charrúas estaban emparentados con los pámpidos, un grupo de etnias aborígenes que habitaron la llanura Chacopampeana y la Patagonia extraandina. Tenían fisiotipos y cultura material similar a las subetnias de los puelches o pampas antiguos, de los tehuelches o patagones, de los tobas y de los caduveos. Sin embargo, hacia el siglo XV parecen haber recibido importantes influjos culturales amazónicos guaraníes, cuya rama meridional -los chandules- merodeaba por ambas orillas del Río de la Plata superior desde sus asentamientos en el delta del Paraná.
+</p><h4>Sociedad</h4><p>
+Básicamente los charrúas no eran pacíficos, tenían una organización social muy fuerte centrada en jefaturas a cuyo frente había un cacique, jefe que aunque solía pertenecer a un linaje debía ser electo y consensuado permanentemente por el conjunto, donde los vínculos interpersonales eran muy importantes y conservaban la filiación poligámica.9​
+</p><h4>Economía</h4><p>
+En el momento de la conquista española su modo de producción era cazador-recolector, aunque rápidamente supieron desarrollar un complejo ecuestre y con este, una cierta ganadería basada en los bovinos y equinos. Dado el modo de producción (cazador-recolector) era una etnia de nómadas -como lo eran casi todos los otros pámpidos-, por lo que los únicos vestigios materiales de su civilización son pequeñas vasijas de barro así como parte de sus armas típicas, lanzas, flechas y boleadoras, esta última era uno de los objetos más típicos de la región. Estaban conformadas por dos o tres bolas de piedra, unidas por un trozo de cuero de aproximadamente un metro, en un nudo común. Eran utilizadas para cazar principalmente el ñandú, ave típica de la mayor parte del cono sur.
+</p><h4>Lengua</h4><p>
+La familia de las lenguas charrúas es un grupo aislado e ignoto, que se considera conformados por tres lenguas: la charrúa, la chaná y la minuano-guenoa.10​
+La lengua charrúa propiamente dicha se extinguió casi sin ser documentada, según Azara era: idioma muy narigal, gutural y diferente de todos. Azara menciona como idiomas diferentes a las lenguas de los yaros, bohanes, chanás y minuanes. La lengua de los yaros y la de los bohanes pudieron haber sido del grupo cáingang. El doctor Teodoro Vilardebó recopiló dos grupos de palabras charrúas en 1841 y 1842, aunque de dos fuentes indirectas. Este compendio de unas 70 palabras se conoce como Códice Vilardebó.11​
+En cuanto al parentesco de las lenguas charrúas con las de otros grupos lingüísticos de América del Sur existen diferentes teorías. Estas lenguas han sido estudiadas por amerindólogos como Mauricio Swadesh y Terrence Kaufman. Se han propuesto que podría existir parentesco de las lenguas charrúas con las lenguas arawak (Perea y Alonso, 1937), con las lenguas matacoanas (Ferrario), con las lenguas lule-vilela (Rona, 1964) y las lenguas guaicurú (Suárez, 1974).
+</p>
+<h3>En Argentina</h3>
+<ul><li class="bg-secondary text-white p-2 m-2">
+En la provincia de Entre Ríos existen grupos de descendientes de charrúas y pueblos afines que intentan realizar una recuperación cultural basándose principalmente en la información sobre dicho pueblo que se encuentra en la bibliografía y en las costumbres heredadas. Fue creada por ellos la Coordinadora de Comunidades Charrúas de Entre Ríos (Codecha).52​
+Desde 1995 el Instituto Nacional de Asuntos Indígenas (INAI) comenzó a reconocer personería jurídica a comunidades indígenas mediante inscripción en el Registro Nacional de Comunidades Indígenas (Renaci), entre ellas a 3 comunidades charrúas de Entre Ríos:53​
+Comunidad Charrúa del Pueblo Jaguar (en el departamento Villaguay, el 28 de junio de 2007)
+Comunidad Güe Guidaí Berá (en el departamento Tala, el 17 de noviembre de 2009)
+Comunidad Naybu (en la Colonia Federal del departamento Federal, el 9 de octubre de 2013)
+El INAI registra la existencia de otras 14 comunidades charrúas sin personería jurídica en Entre Ríos:54​ Comunidad Onkaijumar (Paraná), Comunidad Guidai (Victoria), Comunidad Los Algarrobos (departamento Gualeguaychú), Comunidad Remajunen (de Chaco Chico, entre Gobernador Sola y Maciá), Comunidad Jhuimen Etriek (Rosario del Tala y Maciá), Comunidad Oyendajau (Durazno), Comunidad Itanu (Villaguay), Comunidad Charrúa Etriek (Villaguay), Comunidad Carabi (Federal), Comunidad Sacachispas (Chajarí), Comunidad Inchala (Santa Ana), Comunidad Itú o Salto Chico (Concordia), Comunidad Cepe (Concordia), Comunidad Abayubá (Concordia).
+Otras agrupaciones se están formando en Diamante, Federación y Colón.55​
+Durante la Rebelión jordanista (1870-1876) participaron algunos charrúas, que al ser derrotados se refugiaron entre los qom del Chaco, integrándose en su cultura.
+La Encuesta Complementaria de Pueblos Indígenas (ECPI) 2004-2005, complementaria del Censo Nacional de Población, Hogares y Viviendas 2001, dio como resultado que se reconocen y/o descienden en primera generación del pueblo charrúa 676 personas en la provincia de Entre Ríos, de los cuales ninguno reside en comunidades indígenas. En toda Argentina se autorreconocieron 4511 charrúas, ninguno viviendo en comunidades. 
+El Censo Nacional de Población de 2010 en Argentina reveló la existencia de 14 649 personas que se autorreconocieron como charrúas en todo el país, 3513 de los cuales viven en la provincia de Entre Ríos, 1807 en la de provincia de Buenos Aires y 93 en la provincia de Corrientes. 
+Desde 2008 el pueblo charrúa de Entre Ríos cuenta con un representante en el Consejo de Participación Indígena (CPI) del INAI, que fue renovado el 17 de septiembre de 2011 mediante la elección de un titular y un suplente por una asamblea de las comunidades. 
+</li></ul>
+`,img:"./imagenes/charrua.png"},
 {titulo:"Guaraníes",concepto:``,img:""},
 {titulo:"Aymara",concepto:``,img:""},
 {titulo:"Tobas",concepto:``,img:""},

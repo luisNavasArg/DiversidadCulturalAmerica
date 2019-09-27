@@ -1,7 +1,7 @@
-let abya_yala= [{concepto:"Es el nombre con que se conoce al continente que hoy se nombra América, que literalmente significaría tierra en plena madurez o tierra de sangre vital. Dicho nombre le fue dado por el pueblo Kuna en Panamá y en Colombia y la nación  Guna Yala  del actual Panamá, antes del  descubirmiento y arribo  de Cristóbal Colón y loseuropeos. El nombre es aceptado hoy ampliamente por los actuales indígenas como el nombre oficial del continente ancestral en oposición al nombre extranjero América. Otras naciones aborígenes le dieron otros distintos nombres al continente en susrespectivos idiomas de acuerdo con sus propias visiones culturales específicas del concepto de continente o de territorio ( Mayab  en el caso de los Mayas de la actual península de Yucatán), visiones que no se identificaban con la idea española del continente. Actualmente, en diferentes organizaciones, comunidades e instituciones indígenas y representantes de ellas de todo el continente prefieren su uso para referirse al territorio continental, en vez del término América. El uso de este nombre es asumido como una posición ideológica por quienes lo usan, argumentando que el nombre &quot;América&quot; o la expresión &quot;Nuevo Mundo&quot; serían propias de los colonizadores europeos y no de los pueblos originarios del continente.", 
+let abya_yala= [{titulo:"Qué significa ABYA YALA",concepto:"Es el nombre con que se conoce al continente que hoy se nombra América, que literalmente significaría tierra en plena madurez o tierra de sangre vital. Dicho nombre le fue dado por el pueblo Kuna en Panamá y en Colombia y la nación  Guna Yala  del actual Panamá, antes del  descubirmiento y arribo  de Cristóbal Colón y loseuropeos. El nombre es aceptado hoy ampliamente por los actuales indígenas como el nombre oficial del continente ancestral en oposición al nombre extranjero América. Otras naciones aborígenes le dieron otros distintos nombres al continente en susrespectivos idiomas de acuerdo con sus propias visiones culturales específicas del concepto de continente o de territorio ( Mayab  en el caso de los Mayas de la actual península de Yucatán), visiones que no se identificaban con la idea española del continente. Actualmente, en diferentes organizaciones, comunidades e instituciones indígenas y representantes de ellas de todo el continente prefieren su uso para referirse al territorio continental, en vez del término América. El uso de este nombre es asumido como una posición ideológica por quienes lo usan, argumentando que el nombre &quot;América&quot; o la expresión &quot;Nuevo Mundo&quot; serían propias de los colonizadores europeos y no de los pueblos originarios del continente.", 
 				 img:"imagenes/principal.png"},
-				 {concepto:`<p>Algunas consideraciones de la actualidad:
-En las últimas décadas América Latina ha experimentado, a diferentes velocidades y
+				 {titulo:"Algunas consideraciones de la actualidad",concepto:`
+				 <p>En las últimas décadas América Latina ha experimentado, a diferentes velocidades y
 con rasgos variados en los distintos países, signifcativos progresos en su desarrollo
 económico y social, como lo demuestran el sostenido crecimiento económico, la
 reducción de la pobreza e importantes logros en diversos indicadores sociales. Sin
@@ -13,8 +13,8 @@ persistencia de altos niveles de desigualdad. Los pueblos indígenas forman part
 colectivos más desfavorecidos, como resultado de complejos procesos sociales e
 históricos que se iniciaron hace más de 500 años y que fueron estableciendo prácticas
 discriminatorias persistentes hasta el presente e implicaron un despojo sistemático de
-sus territorios, con graves consecuencias para su bienestar. No obstante, después del
-</p><p>
+sus territorios, con graves consecuencias para su bienestar. </p><p>No obstante, después del
+
 fn de la Guerra Fría, en un mundo globalizado y pluricultural, la irrupción de los
 pueblos indígenas y su agenda de derechos se enmarca en una diversidad de luchas
 por el reconocimiento y la dignidad humana. Este fenómeno no es exclusivo de la
@@ -46,8 +46,9 @@ necesario rediseñar los equilibrios entre el Estado, el mercado y la sociedad p
 construir pactos en que concurran aquellos actores que garanticen acuerdos políticos
 de largo alcance. Con estas premisas, es indudable que los pueblos indígenas deben
 ser incluidos en tales pactos y que estos deben abrir espacios para avanzar más
-rápidamente en la aplicación de los estándares internacionales. Uno de los principales
-</p><p>
+rápidamente en la aplicación de los estándares internacionales.
+</p><p> Uno de los principales
+
 desafíos en esta materia es la integración de los derechos de los pueblos indígenas en
 un nuevo modelo de gobernanza de los recursos naturales. Se trata de transitar desde
 los “nuevos tratos” hacia los “nuevos pactos”. Junto con lo anterior, los conocimientos
@@ -70,14 +71,23 @@ cumplimiento de los derechos humanos de los pueblos indígenas, incluidos las
 mujeres, los niños y niñas, los jóvenes y las personas mayores, así como de su derecho
 a ser colectivos diferentes. Esto no solo constituye un asunto de justicia social, sino
 que contribuirá en gran medida a cimentar los cambios profundos que necesitan la
-región y el orbe, sentando bases más sólidas para la paz mundial.</p>`,img:""}];
+región y el orbe, sentando bases más sólidas para la paz mundial.</p>`,img:"imagenes/encuentroFeminista.jpg"}];
 
 window.onload=()=>{
-	document.querySelector('#seccion').innerHTML=`
-	<article  class="col-8 text-justify">${abya_yala[0].concepto}</article>
-				<article class="col-4 ">
-					<img src="${abya_yala[0].img}" class="img-fluid">	
-				</article>
+	abya_yala.forEach((abya_yala)=>{
+	document.querySelector('#seccion').innerHTML+=`
+<section class="row m-5">			
+	<article  class="col-8 text-justify ">
+			<h2 class="bg-secondary text-center text-white">
+				${abya_yala.titulo}
+			</h2>${abya_yala.concepto}
+	</article>
+	<article class="col-4">
+		<img src="${abya_yala.img}" class="img-fluid"/>	
+	</article>
+</section>
+
 	`;
+	});
 }
 

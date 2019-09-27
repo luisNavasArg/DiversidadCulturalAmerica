@@ -77,12 +77,12 @@ window.onload=()=>{
 	abya_yala.forEach((abya_yala)=>{
 	document.querySelector('#seccion').innerHTML+=`
 <section class="row m-5">			
-	<article  class="col-8 text-justify ">
-			<h2 class="bg-secondary text-center text-white">
+	<article  class="col-sm-12 col-lg-8 text-justify ">
+			<h2 class="bg-secondary text-center text-white m-4 p-4">
 				${abya_yala.titulo}
 			</h2>${abya_yala.concepto}
 	</article>
-	<article class="col-4">
+	<article class="col-sm-12 col-lg-4">
 		<img src="${abya_yala.img}" class="img-fluid"/>	
 	</article>
 </section>

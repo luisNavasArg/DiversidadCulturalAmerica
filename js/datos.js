@@ -160,7 +160,7 @@ El machitún126​ (machitun) se efectúa para sanar a alguien enfermo. Para ell
 We tripantu127​ (We Tripantu o Wiñoy Tripantu) es la celebración del año nuevo mapuche. Se realiza en el día de solsticio de invierno, entre el 21 y el 24 de junio. De esta manera, al amanecer del 24 de junio, se inicia otro ciclo de vida en el mundo mapuche y en la madre tierra. Por lo general es un día de reencuentro, de armonización y equilibrio de las relaciones humanas. Una tradición corriente de esta fiesta es bañarse en un río o lago al amanecer.
 
 `,img:""},
-{titulo:"Charruas",concepto:`
+{titulo:"Charrúas",concepto:`
 <p>Los charrúas fueron un pueblo amerindio que en el siglo XVI vivía en el sur de lo que hoy es Uruguay. En el siglo XVIII los charrúas ampliaron su territorio en su guerra contra españoles y guaraníes misioneros avanzando sobre el norte de Uruguay, el sur del actual estado brasileño de Río Grande del Sur y la provincia argentina de Entre Ríos, alcanzando ocasionalmente también a las de Corrientes y Santa Fe. A raíz de ese avance se fusionaron con otros pueblos que ocupaban esos territorios, tales como los chanás y minuanes y se fusionaron y/o exterminaron a pueblos presumiblemente cáingangs como los yaros y bohanes. El término charrúa pasó a ser el denominador común de ese conjunto de pueblos, por lo que hoy en conjunto se los denomina como complejo charrúa o nación charrúa.
 </p><h3>Características culturales</h3>
 <h4>Cultura</h4><p>

@@ -78,7 +78,7 @@ concepto:`
 Existió desde 2007 un proyecto de decreto, presentado por el INADI, de modificar el nombre de 
 Día de la Raza por Día de la Diversidad Cultural Americana (2*). Finalmente fue consagrado como 
 Día del Respeto a la Diversidad Cultural por medio del Decreto de Necesidad y Urgencia 1564/2010 
-mitido por la Presidente Cristina Fernández de Kirchner`,img:"imagenes/originarias.jpgoriginarias.jpg",
+mitido por la Presidente Cristina Fernández de Kirchner`,img:"imagenes/originarias.jpg",
 href:"https://www.impactorioja.com.ar/index.php/internacionales/5749-porque-el-12-de-octubre-es-el-dia-de-la-diversidad-cultural-americana"},
 {titulo:"Un poco de historia",
 concepto:`
@@ -142,7 +142,7 @@ Otra versión afirma que la denominación fue tomada de la deformación de una p
   	titulo:"Aymaras",
   	concepto:`Aymara o Aymará (Aimara: aymara [aj.ˈma.ɾa] (?·i)), a veces escrito como aimara, es un pueblo originario de América del Sur que habita la meseta andina del lago Titicaca desde tiempos precolombinos, repartiéndose su población entre el occidente de Bolivia, el norte de Argentina, el sureste del Perú y el norte Grande de Chile.
 Alternativamente, reciben el nombre de collas. No debe confundirse con la etnia del mismo nombre que habita en el norte de Chile y norte de Argentina, ni con el gentilicio de los habitantes del occidente de Bolivia. Aunque no hay correspondencia biunívoca entre ambos nombres.`,
-  	img:"img-aymaras.png",href:"https://es.wikipedia.org/wiki/Aimaras"
+  	img:"imagenes/img-aymaras.png",href:"https://es.wikipedia.org/wiki/Aimaras"
   },{
   	titulo:"Tobas",
   	concepto:`Los tobas, también conocidos como qom, son una etnia del grupo pámpido que habita en el Chaco Central. Hacia el siglo xvi comenzaron a habitar gran parte del norte de Argentina por las actuales provincias de Salta, Chaco, Santiago del Estero, Formosa y en la provincia de Gran Chaco en el sudeste del departamento de Tarija en Bolivia (país que habitaron hasta principios del siglo xx). Contemporáneamente muchos, perseguidos por la miseria en sus zonas rurales ancestrales se encuentran en los suburbios de ciudades como San Ramón de la Nueva Orán, Salta, Tartagal, Resistencia, Charata, Formosa, Rosario, Santa Fe y del Gran Buenos Aires.

@@ -78,7 +78,8 @@ concepto:`
 Existió desde 2007 un proyecto de decreto, presentado por el INADI, de modificar el nombre de 
 Día de la Raza por Día de la Diversidad Cultural Americana (2*). Finalmente fue consagrado como 
 Día del Respeto a la Diversidad Cultural por medio del Decreto de Necesidad y Urgencia 1564/2010 
-mitido por la Presidente Cristina Fernández de Kirchner`,img:"",href:"https://www.impactorioja.com.ar/index.php/internacionales/5749-porque-el-12-de-octubre-es-el-dia-de-la-diversidad-cultural-americana"},
+mitido por la Presidente Cristina Fernández de Kirchner`,img:"imagenes/originarias.jpgoriginarias.jpg",
+href:"https://www.impactorioja.com.ar/index.php/internacionales/5749-porque-el-12-de-octubre-es-el-dia-de-la-diversidad-cultural-americana"},
 {titulo:"Un poco de historia",
 concepto:`
 El 12 de octubre se conmemora la fecha en que la expedición del genovés Cristóbal Colon llegó a 
@@ -105,7 +106,7 @@ cultural de los pueblos indígenas argentinos, garantizando el respeto a su iden
  y no discriminación. Cabe mencionar, también, que esta transformación esta en consonancia con 
  la recomendación Nº 84 del Plan Nacional contra la Discriminación, que aconseja
   "Transformar el 12 de Octubre en un día de reflexión histórica y de diálogo intercultural".`,
-  img:"",href:"http://www.frm.utn.edu.ar/webgraduados/index.php/hoy-recordamos/363-12-de-octubre-dia-de-la-diversidad-cultural"},{
+  img:"imagenes/america.jpg",href:"http://www.frm.utn.edu.ar/webgraduados/index.php/hoy-recordamos/363-12-de-octubre-dia-de-la-diversidad-cultural"},{
   	titulo:"Mapuches",
   	concepto:`
 Los mapuches (del autónimo en mapudungún mapuche) o araucanos (nombre dado por los españoles a 
@@ -125,40 +126,40 @@ conquistadores, pero los que vivían en el territorio al sur del río Maule no p
 dominados por los incas y también se opusieron a los españoles en la Guerra de Arauco, donde 
 mostraron un destacado dominio del caballo, que fue un importante factor en el desarrollo de su 
 cultura.`,
-  	img:"",href:"https://es.wikipedia.org/wiki/Pueblo_mapuche"
+  	img:"imagenes/img-mapuche.png",href:"https://es.wikipedia.org/wiki/Pueblo_mapuche"
   },{
   	titulo:"Charrúas",
   	concepto:`Los charrúas fueron un pueblo amerindio que en el siglo XVI vivía en el sur de lo que hoy es Uruguay. En el siglo XVIII los charrúas ampliaron su territorio en su guerra contra españoles y guaraníes misioneros avanzando sobre el norte de Uruguay, el sur del actual estado brasileño de Río Grande del Sur y la provincia argentina de Entre Ríos, alcanzando ocasionalmente también a las de Corrientes y Santa Fe. A raíz de ese avance se fusionaron con otros pueblos que ocupaban esos territorios, tales como los chanás y minuanes y se fusionaron y/o exterminaron a pueblos presumiblemente cáingangs como los yaros y bohanes. El término charrúa pasó a ser el denominador común de ese conjunto de pueblos, por lo que hoy en conjunto se los denomina como complejo charrúa o nación charrúa.`,
-  	img:"",href:"https://es.wikipedia.org/wiki/Charr%C3%BAas"
+  	img:"imagenes/img-charrua.png",href:"https://es.wikipedia.org/wiki/Charr%C3%BAas"
   },{
   	titulo:"Guaraníes",
   	concepto:`Los guaraníes o avá, según su autodenominación étnica original, son un grupo de pueblos nativos sudamericanos que se ubican geográficamente en Paraguay, noreste y noroeste de Argentina ,1​ sur y suroeste de Brasil (en los estados de Río Grande del Sur, Santa Catarina, Paraná y Mato Grosso del Sur) y sureste de Bolivia (en los departamentos de Tarija, Santa Cruz y Chuquisaca).
 Origen del nombre
 La muy difundida palabra "guaraní" la escucharon los españoles que, al invadir su territorio, habrían oído, entre los gritos de guerra de este pueblo, la frase guará-ny, que significa "combatid-los". Por otra parte el nombre dada significa en guaraní "guerrero", ava que significa "hombre" y se pronuncia en forma grave entre los chiriguanos (ava guaraníes).
 Otra versión afirma que la denominación fue tomada de la deformación de una palabra guaraní, guariní, que significa precisamente "guerra" o "guerrear".2​ Al parecer los mismos indígenas se denominaron de esa manera, indicando con ello que se consideraban guerreros.`,
-  	img:"", href:"https://es.wikipedia.org/wiki/Guaran%C3%ADes"
+  	img:"imagenes/img-guarani.png", href:"https://es.wikipedia.org/wiki/Guaran%C3%ADes"
   },{
   	titulo:"Aymaras",
   	concepto:`Aymara o Aymará (Aimara: aymara [aj.ˈma.ɾa] (?·i)), a veces escrito como aimara, es un pueblo originario de América del Sur que habita la meseta andina del lago Titicaca desde tiempos precolombinos, repartiéndose su población entre el occidente de Bolivia, el norte de Argentina, el sureste del Perú y el norte Grande de Chile.
 Alternativamente, reciben el nombre de collas. No debe confundirse con la etnia del mismo nombre que habita en el norte de Chile y norte de Argentina, ni con el gentilicio de los habitantes del occidente de Bolivia. Aunque no hay correspondencia biunívoca entre ambos nombres.`,
-  	img:"",href:"https://es.wikipedia.org/wiki/Aimaras"
+  	img:"img-aymaras.png",href:"https://es.wikipedia.org/wiki/Aimaras"
   },{
   	titulo:"Tobas",
   	concepto:`Los tobas, también conocidos como qom, son una etnia del grupo pámpido que habita en el Chaco Central. Hacia el siglo xvi comenzaron a habitar gran parte del norte de Argentina por las actuales provincias de Salta, Chaco, Santiago del Estero, Formosa y en la provincia de Gran Chaco en el sudeste del departamento de Tarija en Bolivia (país que habitaron hasta principios del siglo xx). Contemporáneamente muchos, perseguidos por la miseria en sus zonas rurales ancestrales se encuentran en los suburbios de ciudades como San Ramón de la Nueva Orán, Salta, Tartagal, Resistencia, Charata, Formosa, Rosario, Santa Fe y del Gran Buenos Aires.
 Como típicos pámpidos se caracterizan por sus elevadas tallas y por predominar entre ellos los individuos dolicocéfalos. Se les considera una de las más importantes etnias del grupo de los guaicurúes, voz de tono insultante que dieron los guaraníes a sus principales oponentes en el Gran Chaco.
 `,
-  	img:"",href:"https://es.wikipedia.org/wiki/Pueblo_toba"
+  	img:"imagenes/img-tobas.png",href:"https://es.wikipedia.org/wiki/Pueblo_toba"
   },{
   	titulo:"Tehuelches",
   	concepto:`Los tehuelches son un pueblo indígena de la Patagonia en América del Sur, cuyos exponentes actuales viven en Argentina y se han extinguido en Chile.
 El nombre complejo tehuelche ha sido usado por investigadores en sentido amplio para agrupar a un conjunto de pueblos amerindios de la Patagonia y la región pampeana. Diversos especialistas, misioneros y viajeros han realizado propuestas para agruparlos teniendo en cuenta la similitud de sus rasgos culturales, su vecindad geográfica y sus idiomas, aunque entre ellos se hablaban idiomas que no estaban emparentados entre sí, y su distribución geográfica era extensa.
 `,
-  	img:"",href:"https://es.wikipedia.org/wiki/Tehuelches"
+  	img:"imagenes/img-tehuelches.png",href:"https://es.wikipedia.org/wiki/Tehuelches"
   },{
   	titulo:"Querandíes",
   	concepto:`Querandíes es la denominación que se le dio a un grupo étnico del noreste de la región pampeana de la actual Argentina al tiempo de la llegada de los primeros colonizadores europeos en el siglo XVI.1​2​ Actualmente esta denominación también aplica a personas que alegan ser sus descendientes mestizados.
 Según Samuel Lafone Quevedo la palabra querandí proviene del guaraní "quirã" (sebo o manteca) y "ndi" (sufijo copulativo: "con"), por lo que significaría que está gordo o que es rico en grasa o aceite, en una posible alusión a que en su dieta diaria consumían grasa animal.3​ Para Manuel Ricardo Trelles provendría de la palabra guaraní carandaí (palma o palmera). Otros autores, como Eduardo Madero y Vicente Fidel López, le asignan origen quechua.`,
-  	img:"",href:"https://es.wikipedia.org/wiki/Querand%C3%ADes"
+  	img:"imagenes/img-pampas.jpg",href:"https://es.wikipedia.org/wiki/Querand%C3%ADes"
   }];
 
 window.onload=()=>{
@@ -170,7 +171,7 @@ window.onload=()=>{
 		<div class="card" style="">
 		  <img src="${abya_yala.img}" class="card-img-top img-fluid" alt="...">
 		  <div class="card-body">
-		    <h5 class="card-title">${abya_yala.titulo}</h5>
+		    <h1 class="card-title text-center">${abya_yala.titulo}</h1>
 		    <p class="card-text">	${abya_yala.concepto}</p>
 		    <a href="${abya_yala.href}" class="btn btn-primary" target="_blank">Leer más!</a>
 		  </div>
